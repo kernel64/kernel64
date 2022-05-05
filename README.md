@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kernel64 (Mohamed Aymen B. S.)
 - 👀 I’m interested in web and mobile developpement, Pentesting ... 
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate in open source projects
 - 📫 How to reach me : med.aymen3@gmail.com
 
 <!---
