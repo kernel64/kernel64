@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.jpg" alt="Kernel64 - Software Engineering and Systems Programming" width="100%">
+</p>
+
 # Hi, I'm Mohamed Aymen 👋
 
 **Software Engineer | Open Source Developer | Emulator & Systems Programming Enthusiast**
