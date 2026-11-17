@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @kernel64 (Mohamed Aymen B. S.)
-- 👀 I’m interested in web and mobile developpement, pentesting, reverse engineering ... 
-- 💞️ I’m looking to collaborate in open source projects
-- 📫 How to reach me : med.aymen@mabslabs.com
+# Hi, I'm Mohamed Aymen 👋
+
+**Software Engineer | Open Source Developer | Emulator & Systems Programming Enthusiast**
+
+I enjoy building software, exploring low-level programming, and understanding how things work under the hood.
+
+With nearly 20 years of experience in software engineering, I work across different areas of development, from backend and web applications to systems programming, reverse engineering, and game console emulation.
 
 <!---
 kernel64/kernel64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
